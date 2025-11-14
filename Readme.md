@@ -10,7 +10,7 @@
 
 **Puedes probar la aplicación en vivo aquí:**
 
-➡️ **[El link aparecerá aquí después del Paso 4]** ⬅️
+➡️ **https://luxce2.github.io/Simbio-Maqueta/** ⬅️
 
 ---
 
